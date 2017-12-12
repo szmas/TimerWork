@@ -1,0 +1,5 @@
+Windows的计划任务+Console程序（Console程序没问题吧，计划任务去配置一下就行）
+
+Windows Service（如果是定时任务，这个不推荐，Windows Service推荐应用于Socket Listen这种）
+
+数据库的job（强烈推荐，省事一些）
